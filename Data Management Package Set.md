@@ -85,11 +85,6 @@ This project bridges the gap by offering a lightweight, customizable alternative
 
 ## How to Run
 
-1. Install the required tools:
+Install the required tools:
    - **Python**: Version 3.8 or higher.
    - **Apache Airflow**: Follow the installation guide [here](https://airflow.apache.org/docs/apache-airflow/stable/installation.html).
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/ericaazhao/data-management-package.git
-   cd data-management-package
-   ```
